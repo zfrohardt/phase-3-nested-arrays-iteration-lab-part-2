@@ -1,4 +1,4 @@
-# Nested Data Structures: Mapping Data Lab
+# Lab: Extract Data from an Array of Arrays
 
 ## Introduction
 
